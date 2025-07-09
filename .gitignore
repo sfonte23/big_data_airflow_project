@@ -5,9 +5,6 @@ logs/
 # Ignorar dados locais do banco
 pgdata/
 
-# Ignorar dados temporários
-data/
-
 # Ignorar arquivos de configuração local (se houver)
 airflow.cfg
 
