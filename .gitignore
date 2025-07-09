@@ -1,0 +1,22 @@
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar dados locais do banco
+pgdata/
+
+# Ignorar dados temporários
+data/
+
+# Ignorar arquivos de configuração local (se houver)
+airflow.cfg
+
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar pastas do ambiente virtual (se usar)
+venv/
+env/
