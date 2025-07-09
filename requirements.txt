@@ -1,0 +1,5 @@
+faker
+pandas
+apache-airflow
+sqlite3
+sqlalchemy
